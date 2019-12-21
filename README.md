@@ -8,6 +8,10 @@
 
 [ROS-Industrial](http://wiki.ros.org/Industrial) Universal Robot meta-package. See the [ROS wiki](http://wiki.ros.org/universal_robot) page for compatibility information and other more information.
 
+### Biorobotics Lab Fork
+This is a fork of robot description files for biorobotics lab UR arms. For calibration procedures, see this [guide](https://github.com/UniversalRobots/Universal_Robots_ROS_Driver/blob/master/ur_calibration/README.md).
+
+### Documentation
 
 __Installation__
 
